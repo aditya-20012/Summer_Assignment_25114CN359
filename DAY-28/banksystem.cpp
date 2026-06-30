@@ -23,7 +23,7 @@ int main()
         cin >> choice;
         if (choice == 1)
         {
-            cout << "Enter number of contacts:";
+            cout << "Enter number of accounts:";
             cin >> n;
             for (i = count; i < count + n; i++)
             {
